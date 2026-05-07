@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "name": "Shinjuku Station" }, "geometry": { "type": "Point", "coordinates": [139.7003, 35.6896] } },
+    { "type": "Feature", "properties": { "name": "Shibuya Station" }, "geometry": { "type": "Point", "coordinates": [139.7016, 35.6580] } },
+    { "type": "Feature", "properties": { "name": "Tokyo Station" }, "geometry": { "type": "Point", "coordinates": [139.7671, 35.6812] } },
+    { "type": "Feature", "properties": { "name": "Ikebukuro Station" }, "geometry": { "type": "Point", "coordinates": [139.7109, 35.7289] } },
+    { "type": "Feature", "properties": { "name": "Shinagawa Station" }, "geometry": { "type": "Point", "coordinates": [139.7388, 35.6284] } },
+    { "type": "Feature", "properties": { "name": "Ueno Station" }, "geometry": { "type": "Point", "coordinates": [139.7770, 35.7138] } },
+    { "type": "Feature", "properties": { "name": "Asakusa Station" }, "geometry": { "type": "Point", "coordinates": [139.7974, 35.7107] } },
+    { "type": "Feature", "properties": { "name": "Akihabara Station" }, "geometry": { "type": "Point", "coordinates": [139.7731, 35.6983] } },
+    { "type": "Feature", "properties": { "name": "Ginza Station" }, "geometry": { "type": "Point", "coordinates": [139.7646, 35.6720] } },
+    { "type": "Feature", "properties": { "name": "Roppongi Station" }, "geometry": { "type": "Point", "coordinates": [139.7323, 35.6631] } }
+  ]
+}
