@@ -1,0 +1,9 @@
+# Ignore the large data files from Inside Airbnb
+data/listings.csv
+data/reviews.csv.gz
+data/reviews.csv
+
+
+# Ignore the virtual environment
+.venv/
+__pycache__/
